@@ -26,3 +26,6 @@ Results of the complete scan:  <br/>
 <img src="https://imgur.com/4aQPe83.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<h2>Resources & References</h2>
+ - [TheCyberMentor](https://academy.tcm-sec.com/)
